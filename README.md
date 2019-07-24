@@ -30,6 +30,4 @@ run.coloc.discrete.R
 
 ## DOI
 
-### v1.0.0
-
-[![DOI](https://zenodo.org/badge/49515156.svg)](https://zenodo.org/badge/latestdoi/49515156)
+### v1.0.1
