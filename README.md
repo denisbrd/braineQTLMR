@@ -27,3 +27,9 @@ extract.data.coloc.sh
 run.coloc.discrete.R
 
 * Performs Bayesian coloc analysis on the harmonised dataset.
+
+## DOI
+
+### v1.0.0
+
+[![DOI](https://zenodo.org/badge/49515156.svg)](https://zenodo.org/badge/latestdoi/49515156)
